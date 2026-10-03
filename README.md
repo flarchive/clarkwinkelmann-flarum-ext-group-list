@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of clarkwinkelmann/flarum-ext-group-list.** Not for installation: use [Packagist](https://packagist.org/packages/clarkwinkelmann/flarum-ext-group-list) or the [upstream repository](https://github.com/clarkwinkelmann/flarum-ext-group-list).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-group-list/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0`
+**4** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-group-list/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2020-11-16 | `>=0.1.0-beta.14 <0.1.0-beta.15` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-group-list/tree/archive/v0.1.0) |
+| `0.2.0` | 2021-01-12 | `>=0.1.0-beta.15 <0.1.0-beta.16` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-group-list/tree/archive/v0.2.0) |
+| `0.2.1` | 2021-04-16 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-group-list/tree/archive/v0.2.1) |
+| `1.0.0` | 2021-06-09 | `^1.0` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-group-list/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/clarkwinkelmann-flarum-ext-group-list.json](https://github.com/flarchive/archive-index/blob/main/packages/clarkwinkelmann-flarum-ext-group-list.json)
 
